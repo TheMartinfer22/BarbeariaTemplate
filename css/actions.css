@@ -1,0 +1,11 @@
+.uk-card-body:hover p {
+    color: black;
+}
+
+.uk-card-body:hover h1 {
+    color: black;
+}
+
+.uk-card-body:hover {
+    background-color: #f0f0f0;
+}
